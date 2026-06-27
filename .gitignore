@@ -1,0 +1,54 @@
+# ============================================
+# Quartus Generated Files — Do Not Push
+# ============================================
+
+# Quartus Project Databases
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Quartus Generated Files
+*.qws
+*.rpt
+*.smsg
+*.summary
+*.pin
+*.pof
+*.sof
+*.jdi
+*.done
+*.flow.rpt
+*.map.rpt
+*.fit.rpt
+*.asm.rpt
+*.sta.rpt
+*.qdf
+*.qarxml
+
+# Pin Model Dump
+c5_pin_model_dump*
+
+# ModelSim Generated
+work/
+*.vcd
+*.wlf
+transcript
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# ============================================
+# KEEP THESE — Important files
+# ============================================
+# *.sv     — SystemVerilog source
+# *.v      — Verilog source
+# *.md     — Documentation
+# *.jpg    — Diagrams
+# *.png    — Screenshots
+# *.qpf    — Quartus Project File
+# *.qsf    — Quartus Settings File
