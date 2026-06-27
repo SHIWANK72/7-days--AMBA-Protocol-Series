@@ -10,6 +10,8 @@ simulation/
 
 # Quartus Generated Files
 *.qws
+*.qpf
+*.qsf
 *.rpt
 *.smsg
 *.summary
