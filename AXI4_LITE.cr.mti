@@ -1,0 +1,41 @@
+{D:/Model_sim/7-days--AMBA-Protocol-Series/Day 4 Control Path Engineering & Interlock FSMs/tb_axi4_lite_slave.sv} {1 {vlog -work work -sv -stats=none {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 4 Control Path Engineering & Interlock FSMs/tb_axi4_lite_slave.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_axi4_lite_slave
+
+Top level modules:
+	tb_axi4_lite_slave
+
+} {} {}} {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 3 RTL Coding/axi4_lite_slave.sv} {1 {vlog -work work -sv -stats=none {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 3 RTL Coding/axi4_lite_slave.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module axi4_lite_slave
+
+Top level modules:
+	axi4_lite_slave
+
+} {} {}} {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv} {2 {vlog -work work -sv -stats=none {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling interface axi_if
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(232): (vlog-2244) Variable 'wtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(233): (vlog-2244) Variable 'rtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(280): (vlog-2244) Variable 'wtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(281): (vlog-2244) Variable 'rtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(37): (vlog-13233) Design unit "Axi20master20bfm_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package Axi20master20bfm_sv_unit
+-- Compiling module tb_axi4_lite_vip
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(232): (vlog-2244) Variable 'wtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(233): (vlog-2244) Variable 'rtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(280): (vlog-2244) Variable 'wtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 5 SystemVerilog VIP & Master BFM/Axi master bfm.sv(281): (vlog-2244) Variable 'rtx' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+
+Top level modules:
+	tb_axi4_lite_vip
+
+} {} {}}
