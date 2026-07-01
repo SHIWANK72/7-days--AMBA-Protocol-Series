@@ -5,6 +5,22 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	tb_axi4_lite_slave
 
+} {} {}} {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 6 SVA Protocol Checker/axi4_lite_checker.sv} {2 {vlog -work work -sv -stats=none {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 6 SVA Protocol Checker/axi4_lite_checker.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module axi4_lite_checker
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 6 SVA Protocol Checker/axi4_lite_checker.sv(21): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 6 SVA Protocol Checker/axi4_lite_checker.sv(21): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+** Warning: D:/Model_sim/7-days--AMBA-Protocol-Series/Day 6 SVA Protocol Checker/axi4_lite_checker.sv(25): (vlog-2186) SystemVerilog testbench feature
+(randomization, coverage or assertion) detected in the design.
+These features are only supported in Questasim.
+
+Top level modules:
+	axi4_lite_checker
+
 } {} {}} {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 3 RTL Coding/axi4_lite_slave.sv} {1 {vlog -work work -sv -stats=none {D:/Model_sim/7-days--AMBA-Protocol-Series/Day 3 RTL Coding/axi4_lite_slave.sv}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module axi4_lite_slave
