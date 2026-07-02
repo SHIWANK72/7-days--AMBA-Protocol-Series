@@ -29,13 +29,13 @@ This is not just about writing simulation code. Every day, this repository will 
 
 | Day | Date | Focus Area | Deliverables | Status |
 |:---:|:---:|:---|:---|:---:|
-| **01** | June 26 | **Protocol Fundamentals & VALID/READY Handshake** | Handshake interlocks, Timing Diagrams | ⏳ *Upcoming* |
-| **02** | June 27 | **Internal Signal Mapping & 5-Channel Architecture** | AW, W, B, AR, R Channel Deconstruction | ⏳ *Upcoming* |
-| **03** | June 28 | **RTL Coding of Memory-Mapped AXI4-Lite Slave** | SV Modules, Interface Definitions | ⏳ *Upcoming* |
-| **04** | June 29 | **Control Path Engineering & Interlock FSMs** | FSM Views, Concurrent R/W Logic | ⏳ *Upcoming* |
-| **05** | June 30 | **SystemVerilog Verification IP (VIP) Environment** | Master BFM, Testbench Architecture | ⏳ *Upcoming* |
-| **06** | July 01 | **Strict Protocol Checker via SV Assertions (SVA)** | Concurrent Assertions, Violation Catching | ⏳ *Upcoming* |
-| **07** | July 02 | **Functional Coverage & Regression Sign-off** | Covergroups, Cross-coverage, Wrap-up | ⏳ *Upcoming* |
+| **01** | June 26 | **Protocol Fundamentals & VALID/READY Handshake** | Handshake interlocks, Timing Diagrams | Complete |
+| **02** | June 27 | **Internal Signal Mapping & 5-Channel Architecture** | AW, W, B, AR, R Channel Deconstruction | Complete |
+| **03** | June 28 | **RTL Coding of Memory-Mapped AXI4-Lite Slave** | SV Modules, Interface Definitions | Complete |
+| **04** | June 29 | **Control Path Engineering & Interlock FSMs** | FSM Views, Concurrent R/W Logic | Complete |
+| **05** | June 30 | **SystemVerilog Verification IP (VIP) Environment** | Master BFM, Testbench Architecture | Complete |
+| **06** | July 01 | **Strict Protocol Checker via SV Assertions (SVA)** | Concurrent Assertions, Violation Catching | Complete |
+| **07** | July 02 | **Functional Coverage & Regression Sign-off** | Covergroups, Cross-coverage, Wrap-up | Complete |
 
 > **Note:** *Click on the respective "Day" folders in the repository to access the complete code, testbenches, and EDA tool screenshots.*
 
