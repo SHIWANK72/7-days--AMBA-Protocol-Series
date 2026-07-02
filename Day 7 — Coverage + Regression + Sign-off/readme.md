@@ -100,7 +100,7 @@ All layers active simultaneously — one run, full sign-off
 
 ## ✅ Final Simulation Results
 
-![Console Output](CONSOLE.jpg)
+![Console Output](CONSOLE.png)
 
 ```
 ============================================
@@ -137,8 +137,8 @@ All layers active simultaneously — one run, full sign-off
 
 **Waveform — Full Pipeline:**
 
-![Waveform 1](WAVE%201.jpg)
-![Waveform 2](WAV2.jpg)
+![Waveform 1](WAVE%201.png)
+![Waveform 2](WAV2.png)
 
 ---
 
@@ -192,9 +192,9 @@ All layers active simultaneously — one run, full sign-off
 | `REGRESSION BLOCK.jpg` | Hand-drawn regression flow diagram |
 | `SIGN OFF TABLE.jpg` | Hand-drawn 7-day sprint sign-off table |
 | `VERIFICATION TRIANGLE.jpg` | Hand-drawn verification triangle concept |
-| `WAVE 1.jpg` | Vivado waveform — upper half |
-| `WAV2.jpg` | Vivado waveform — lower half |
-| `CONSOLE.jpg` | Final regression sign-off console output |
+| `WAVE 1.png` | Vivado waveform — upper half |
+| `WAV2.png` | Vivado waveform — lower half |
+| `CONSOLE.png` | Final regression sign-off console output |
 
 > **Note:** The actual coverage implementation (working code) is in `Day 5 SystemVerilog VIP & Master BFM/axi_master_bfm.sv` — covergroup added at module level, instantiated and sampled inside the testbench initial block.
 
